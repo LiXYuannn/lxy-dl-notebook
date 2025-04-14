@@ -109,6 +109,8 @@
 <img width="884" alt="截屏2025-04-14 18 15 05" src="https://github.com/user-attachments/assets/5cdb1e6f-97fa-4da7-957d-5cccf6d56de4" />
 
 ### 泛化性能优异：
+<img width="310" alt="截屏2025-04-14 18 23 07" src="https://github.com/user-attachments/assets/0d2c6de0-bbe7-4002-8b3c-717e5db94d52" />
+
   - 人脸检测：99.9% 准确率（区分LFW真实人脸 vs. SDV1.4生成人脸）
   - 艺术图像检测：95.0% 准确率
 
