@@ -67,6 +67,7 @@
 
 ### 退化图像处理
 图像在传播过程中经常遇到**退化问题**（eg：低分辨率、压缩和噪声干扰）
+
 <img width="294" alt="截屏2025-04-14 12 08 56" src="https://github.com/user-attachments/assets/7ab284fb-3c0b-4824-998f-b1e0a7d201e7" />
 
 检测器应该对这些挑战具有鲁棒性
